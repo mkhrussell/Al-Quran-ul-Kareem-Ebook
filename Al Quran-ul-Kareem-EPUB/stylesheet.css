@@ -1,0 +1,268 @@
+.block_1 {
+    display: block;
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0
+    }
+.block_2 {
+    display: block;
+    font-size: 1.6em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_3 {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0
+    }
+.block_4 {
+    display: block;
+    font-size: 1em;
+    margin: 0;
+    padding: 0
+    }
+.block_5 {
+    display: block;
+    font-size: 0.83333em;
+    margin: 0;
+    padding: 0
+    }
+.block_6 {
+    display: block;
+    font-size: 1em;
+    margin: 0;
+    padding: 0
+    }
+.block_7 {
+    display: block;
+    font-size: 0.83333em;
+    margin: 15pt 0;
+    padding: 0
+    }
+.block_8 {
+    display: block;
+    font-size: 0.83333em;
+    margin: 15pt 0;
+    padding: 0
+    }
+.block_9 {
+    display: block;
+    font-size: 0.83333em;
+    margin: 0;
+    padding: 0
+    }
+.block_10 {
+    display: block;
+    font-size: 2.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 33pt;
+    padding: 0
+    }
+.block_11 {
+    display: block;
+    font-size: 0.83333em;
+    margin: 0;
+    padding: 0
+    }
+.block_12 {
+    display: block;
+    font-size: 0.83333em;
+    margin: 0 0 22.5pt;
+    padding: 0
+    }
+.block_13 {
+    display: block;
+    font-size: 0.83333em;
+    margin: 0 0 22.5pt;
+    padding: 0
+    }
+.block_14 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0
+    }
+.block_15 {
+    display: block;
+    font-size: 0.83333em;
+    margin: 0;
+    padding: 0
+    }
+.block_16 {
+    display: block;
+    font-size: 0.83333em;
+    text-align: right;
+    margin: 0;
+    padding: 0
+    }
+.block_17 {
+    display: block;
+    font-size: 0.625em;
+    text-align: center;
+    margin: 0;
+    padding: 0 0 1pt;
+    border-bottom: currentColor solid 1pt
+    }
+.block_18 {
+    display: block;
+    font-weight: bold;
+    margin: 0;
+    padding: 0
+    }
+.block_19 {
+    display: block;
+    font-size: 0.83333em;
+    margin: 0;
+    padding: 0
+    }
+.block_20 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin: 0;
+    padding: 0
+    }
+.block_21 {
+    display: block;
+    font-size: 0.83333em;
+    font-weight: normal;
+    margin: 0;
+    padding: 0
+    }
+.block_22 {
+    display: block;
+    font-size: 0.83333em;
+    margin: 0;
+    padding: 0
+    }
+.block_23 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0
+    }
+.block_24 {
+    display: block;
+    font-size: 1.6em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    height: 2px;
+    margin: 0.5em auto;
+    border: currentColor inset 1px
+    }
+.calibre3 {
+    font-weight: bold
+    }
+.calibre4 {
+    text-decoration: none
+    }
+.calibre5 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_ {
+    font-size: 1.2em;
+    font-weight: bold
+    }
+.text_1 {
+    font-size: 1.2em;
+    font-weight: bold
+    }
+.text_2 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_3 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_4 {
+    font-weight: bold
+    }
+.text_5 {
+    }
+.text_6 {
+    }
+.text_7 {
+    display: none
+    }
+.text_8 {
+    display: none;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_9 {
+    display: none;
+    }
+.text_10 {
+    display: none;
+    }
+.text_11 {
+    display: none;
+    }
+.text_12 {
+    font-size: 2.2em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_13 {
+    font-size: 1.2em;
+    font-weight: bold
+    }
+.text_14 {
+    font-size: 1.2em;
+    font-weight: bold
+    }
+.text_15 {
+    font-size: 0.75em
+    }
+.text_16 {
+    font-size: 1em
+    }
+.text_17 {
+    font-size: 1em
+    }
+.text_18 {
+    }
+.text_19 {
+    }
+.text_20 {
+    }
+.text_21 {
+    font-weight: bold;
+    text-decoration: none
+    }
+.text_22 {
+    font-size: 0.75em
+    }
+.text_23 {
+    font-size: 1em
+    }
