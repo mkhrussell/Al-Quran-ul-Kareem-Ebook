@@ -99,38 +99,19 @@
     }
 .block_11 {
     display: block;
-    font-family: serif;
-    font-size: 0.83333em;
-    line-height: 18.6pt;
-    text-align: left;
-    margin: 0;
-    padding: 0
-    }
-.block_12 {
-    display: block;
-    font-family: serif;
-    font-size: 0.83333em;
-    line-height: 14.4pt;
-    text-align: right;
-    margin: 0;
-    padding: 0
-    }
-.block_13 {
-    display: block;
-    font-family: serif;
-    font-size: 0.83333em;
-    line-height: 14.4pt;
-    text-align: center;
-    margin: 0;
-    padding: 0 0 1pt;
-    border-bottom: currentColor solid 1pt
-    }
-.block_14 {
-    display: block;
     font-size: 0.75em;
     line-height: 14.4pt;
     text-align: left;
     margin: 15pt 0;
+    padding: 0
+    }
+.block_12 {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: left;
+    margin: 0;
     padding: 0
     }
 .calibre {

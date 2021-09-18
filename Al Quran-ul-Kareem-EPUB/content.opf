@@ -7,7 +7,7 @@
     <dc:contributor opf:role="bkp">calibre (5.27.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:description>&lt;div&gt;
 &lt;pre style="line-height: 24px; background-color: #1e1e1e; font-family: 'Menlo','Monaco','Courier New','monospace'; font-size: 16px"&gt;&lt;span style="color: #d4d4d4"&gt;কুরআনুল কারীম - বাংলা অনুবাদ ও সংক্ষিপ্ত তাফসীর - আবু বকর মুহাম্মাদ যাকারিয়া&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;</dc:description>
-    <dc:identifier opf:scheme="MOBI-ASIN">f7dbd939-8c70-44b1-b8f5-0c4d36762795</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">8d84ca6b-157a-4123-a252-8b81212a55f8</dc:identifier>
     <dc:identifier id="uuid_id" opf:scheme="uuid">f7dbd939-8c70-44b1-b8f5-0c4d36762795</dc:identifier>
     <dc:identifier opf:scheme="calibre">f7dbd939-8c70-44b1-b8f5-0c4d36762795</dc:identifier>
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
@@ -388,7 +388,7 @@
     <itemref idref="id871"/>
   </spine>
   <guide>
-    <reference type="toc" href="text/part0177_split_000.html#58PJI1-46b0878f2fb542cabdf71e4d68b4bd36" title="Table of Contents"/>
+    <reference type="toc" href="text/part0177_split_000.html#58PJI1-ccbed941f2334464b6508a31d90c9e9c" title="Table of Contents"/>
     <reference type="cover" href="titlepage.xhtml" title="Cover"/>
   </guide>
 </package>
